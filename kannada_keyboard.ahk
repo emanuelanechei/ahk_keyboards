@@ -95,4 +95,4 @@ z::Send ँ
 +!q::Send ೠ
 
 !l::Send ೢ
-+!l::Send  ಌ
++!l::Send ಌ

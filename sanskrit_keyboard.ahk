@@ -93,7 +93,7 @@ z::Send ँ
 +!w::Send औ
 
 !l::Send ॢ
-+!l::Send  ऌ
++!l::Send ऌ
 
 +\:: Send ।
 +!\::Send ॥

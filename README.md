@@ -2,7 +2,7 @@
 
 AutoHotKey keyboard maps for some non-Latin scripts.
 
-- The Sanskrit/Devanagari keyboard is based on the [WX transliteration](https://en.wikipedia.org/wiki/WX_notation) scheme.
+- The Sanskrit/Dévanágarí keyboard is based on the [WX transliteration](https://en.wikipedia.org/wiki/WX_notation) scheme.
 
 - The Kannada/Carnatic keyboard is analogous to the Sanskrit keyboard.
 

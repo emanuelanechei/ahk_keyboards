@@ -6,9 +6,9 @@ l::Send ""
 s::Send ""
 c::Send ""
 m::Send ""
-;
+
 x::Send ""
-;
+
 b::Send ""
 d::Send ""
 g::Send ""
@@ -17,44 +17,44 @@ r::Send ""
 z::Send ""
 j::Send ""
 n::Send ""
-;
+
 q::Send ""
 w::Send ""
-;
+
 a::Send ""
 e::Send ""
 i::Send ""
 o::Send ""
 u::Send ""
 y::Send ""
-;
+
 !a::Send ""
 !e::Send ""
 !o::Send ""
 !u::Send ""
-;
+
 +a::Send ""
 +e::Send ""
 +i::Send ""
 +o::Send ""
 +u::Send ""
 +y::Send ""
-;
+
 +!a::Send ""
 +!e::Send ""
 +!o::Send ""
 +!u::Send ""
-;
+
 .::Send ""
 h::Send ""
 '::Send ""
 +'::Send ""
 ,::Send ""
-;
+
 `::Send ""
 !`::Send ""
 +6::Send ""
 +!6::Send ""
-;
+
 -::Send ""
 +-::Send ""

@@ -34,7 +34,7 @@ x::Send "ದ"
 n::Send "ನ"
 
 p::Send "ಪ"
-+p::Send "फ"़
++p::Send "ಫ"
 b::Send "ಬ"
 +b::Send "ಭ"
 m::Send "ಮ"
@@ -67,12 +67,12 @@ o::Send "ೊ"
 !w::Send "ೌ"
 
 q::Send "ೃ"
-+q::Send "ॄ"
++q::Send "ೄ"
 
 +m::Send "ಂ"
 +h::Send "ಃ"
 
-z::Send "ँ"
+z::Send "ಁ"
 +z::Send "ಽ"
 
 .::Send "್"
